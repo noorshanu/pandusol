@@ -73,7 +73,7 @@ function Meme() {
 
           <div className="ml-2 flex justify-center items-center">
             <p className="capitalize">
-              Battle and Frog Ninja's memes will go viral! Prepare for a
+              Battle and Panda Ninja's memes will go viral! Prepare for a
               whirlwind of laughter, chaos, and pure meme magic. Our meme
               madness knows no bounds – join the fun and let the memes take you
               on a wild ride!
