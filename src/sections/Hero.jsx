@@ -11,7 +11,7 @@ function Hero() {
             <div className=" w-full">
               <h1 className=" font-ninja text-5xl my-4">  Samuria Panda </h1>
 
-              <p className=" text-base sm:text-xl">Hop on board, fellow meme enthusiasts and crypto adventurers! Welcome to the realm of  Samuria Panda , the ultimate fighter frog of the Solana blockchain!</p>
+              <p className=" text-base sm:text-xl">Hop on board, fellow meme enthusiasts and crypto adventurers! Welcome to the realm of  Samuria Panda , the ultimate fighter Panda of the Solana blockchain!</p>
               <p className=" text-base sm:text-xl py-2">
                 Samuria Panda  isn't just your average meme; it's a force to be reckoned with! With lightning speed, unbeatable strength, boundless energy, and a charm that'll make even the toughest whales swoon,  Samuria Panda  is here to take the Solana community to the moon and beyond!
               </p>
