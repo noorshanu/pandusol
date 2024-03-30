@@ -1,20 +1,20 @@
 /** @type {import('tailwindcss').Config} */
-
 export default {
-  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     fontFamily: {
-      dream: "'dream',sans-serif",
-      popins: "'Poppins', sans-serif",
-      daughter: "'Architects Daughter', cursive",
+      quantico: '"Quantico", sans-serif',
     },
     colors: {
       white: "white",
       black: "black",
       transparent: "transparent",
-      primary: "rgba(224, 33, 138, 1)",
-      secondary: "rgba(255, 188, 217, 1)",
-      "sky-blue": "#95E3FD",
+      primary: "#FF6363",
+      yellow: "#FAFF00",
+      secondary: {
+        100: "#E2E2D5",
+        200: "#888883",
+      },
     },
     extend: {},
   },

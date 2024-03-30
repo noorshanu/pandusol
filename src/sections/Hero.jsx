@@ -1,62 +1,45 @@
 function Hero() {
   return (
-    <section className="relative z-10 overflow-hidden bg-[#8af031] h-auto sm:h-[80vh] ">
-      <div className="container-wrapper flex flex-col sm:flex-row  justify-between items-center  lg:drop-shadow-[0_0_10rem_white] mt-4 sm:mt-[8rem] ">
-      
+    <section className=" py-6">
+      <div className="container-wrapper">
+        <div className="relative z-50">
+          <h4 className="mt-4 text-2xl text-center font-ninja text-[#a1ff3c]">
+          Samuria Panda : The Legendary Solana Sensation! 
+          </h4>
 
-   
-        <div className="  mt-4 sm:mt-8 w-full">
-         
-          <h1 className=" text-[#000000] font-bold text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl ">
-            {" "}
-            Welcome  BabyPanda:  The cutest  BabyPanda on Solana! 
-{" "}
-          </h1>
-          <p className=" max-w-3xl  text-[#000000] text-xl ">
-          BabyPanda is the coolest gang on Solana! It is all about energy, style, and fun in the crypto jungle. Get ready for wild adventures with our NFTs, gaming, and daily dose of cute memes!
-          
-          </p>
-          <a href="https://solscan.io/token/EKvoMQ3pEEBrYWU34NqU2cFbcBJ6tMWhmRmSM2FcNrd1" target="_BLANK" className="max-w-3xl  text-[#000000] font-medium text-base  sm:text-xl mx-auto my-2">
-            Contract : HRYoknjrwqB7HBCGoMC7CJnMWvYPadsMFQk7i5HBTzNW
-          </a>
-          <div className=" hidden   sm:flex  justify-center items-center gap-6 mt-7 sm:mt-8">
-            <div className=" relative">
-              <a
-                href="https://raydium.io/"
-                target="_blank"
-                className="  btn-main  font-bold text-sm sm:text-xl rounded-full px-12 py-2"
-              >
-                Trade
-              </a>
+          <div className=" flex justify-between flex-col sm:flex-row items-center ">
+            <div className=" w-full">
+              <h1 className=" font-ninja text-5xl my-4">  Samuria Panda </h1>
+
+              <p className=" text-base sm:text-xl">Hop on board, fellow meme enthusiasts and crypto adventurers! Welcome to the realm of  Samuria Panda , the ultimate fighter frog of the Solana blockchain!</p>
+              <p className=" text-base sm:text-xl py-2">
+                Samuria Panda  isn't just your average meme; it's a force to be reckoned with! With lightning speed, unbeatable strength, boundless energy, and a charm that'll make even the toughest whales swoon,  Samuria Panda  is here to take the Solana community to the moon and beyond!
+              </p>
+              <div className="relative z-40 flex items-center justify-start my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
+                <a
+                  href="https://www.dextools.io/app/en/solana/pair-explorer/DTePuoLDWEeBp2CGkW2t7UkyU1QBPYyJZcCLaAEy6EoN?t=1710582490303"
+                  target="_blank"
+                  className="py-2 text-base uppercase font-ninja px-10 rounded-full bg-gradient-to-b from-[#000000] to-[#2B0000] shadow-lg shadow-black/40 text-white  font-bold border border-white"
+                >
+                  buy now
+                </a>
+                <a
+                  href="https://t.me/ Samuria Pandas"
+                  className="text-base py-2 uppercase font-ninja px-10 rounded-full bg-gradient-to-b from-[#a1ff3c] to-[#C9A900] shadow-lg shadow-black/40 text-black  font-bold border border-yellow"
+                >
+                  join telegram
+                </a>
+              </div>
             </div>
 
-      
+            <div className=" w-full">
+              <div>
+                <img src="images/hero.png" alt="" className=" mx-auto" />
+              </div>
+
+         
+            </div>
           </div>
-
-     
-        </div>
-
-        <div className=" relative z-20 w-full">
-          <img
-            src="images/star2.png"
-            alt=""
-            className="floating  absolute top-[20%] sm:top-[46%] left-3 sm:left-[10%] w-auto h-[80px] "
-          />
-          <img
-            src="images/bam.png"
-            alt=""
-            className="floating  absolute top-4 sm:top-[46%] right-[10%] w-auto h-[130px] "
-          />
-
-          <img
-            src="/images/hero.png"
-            className="w-full lg:w-[70%] lg:h-full   mx-auto "
-            data-aos="fade-up"
-            data-aos-offset="300"
-            data-aos-duration="1500"
-            data-aos-easing="ease-in-sine"
-            alt=""
-          />
         </div>
       </div>
     </section>

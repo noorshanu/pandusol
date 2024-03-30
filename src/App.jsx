@@ -1,48 +1,27 @@
-import Navbar from "components/Navbar";
-
-import BelowMark from "sections/BelowMark";
-
-import Hero from "sections/Hero";
-import JoinCommunity from "sections/JoinCommunity";
-import NFTs from "sections/NFTs";
+import AppLayout from "./AppLayout";
 
 
-// import Tokenomics from "sections/Tokenomics";
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
+
 
 function App() {
   return (
-    <div className="flex flex-col">
-      <main className="flex-1">
-        <div className="relative z-10">
-          <div className="lg:absolute relative sm:top-8 2xl:top-1 left-0 w-full z-50">
-            <Navbar />
-          </div>
+    <BrowserRouter>
+    
+        <Routes>
+          <Route
+            path="/"
+            element={
+              <AppLayout />
+            }
+          />
+       
+        </Routes>
 
-          <div className="  mt-5">
-            <Hero />
-          </div>
 
-          {/* <div className=" py-2">
-           <Product/>
-          </div> */}
-          {/* <div className=" py-2">
-            <BelowMark />
-          </div> */}
-        </div>
 
-        {/* <div className="" id="about">
-          <About />
-        </div> */}
-
-        {/* <div className=" mt-3">
-          <NFTs />
-        </div> */}
-      </main>
-
-      <div id="contact">
-        <JoinCommunity />
-      </div>
-    </div>
+    </BrowserRouter>
   );
 }
 
