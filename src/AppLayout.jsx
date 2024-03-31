@@ -14,12 +14,12 @@ function AppLayout() {
       </main>
       <div className=" h-[70px] border-t-2 border-b-2 py-4 border-[#751717] mb-2 ">
         <a
-          href="https://solscan.io/token/ESdCVVCEbwP5Fm7pdGhYAhBVFVTw53JGqG5LZBrVsezZ"
+          href="#"
           target="_blank"
           className="my-2 flex justify-center text-base text-center text-white  sm:text-xl"
         >
           {" "}
-          Contract : ESdCVVCEbwP5Fm7pdGhYAhBVFVTw53JGqG5LZBrVsezZ
+          Contract : ESdCVVCEbwP5Fm7pdGhYAhBVsdsfdgdfghf
         </a>
       </div>
       <div>
@@ -62,12 +62,12 @@ function AppLayout() {
 
             <div className="flex items-center space-x-6">
               <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-                <a target="_blank" href="https://twitter.com/Panda_ninjaaa">
-                  <FaTwitter />
-                </a>
-                <a target="_blank" href="https://t.me/ Samuria Pandas">
-                  <FaTelegram />
-                </a>
+              <a target="_blank" href="https://twitter.com/samurai9_">
+              <FaTwitter />
+            </a>
+            <a target="_blank" href="https://t.me/sumaripanda">
+              <FaTelegram />
+            </a>
               </div>
 
               <button className="text-2xl lg:hidden">
