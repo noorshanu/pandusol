@@ -28,7 +28,7 @@ function Meme() {
 
         <div className=" rounded-xl border border-[#a1ff3c] w-[370px] h-full  text-center p-4">
           <div>
-            <p className="font-ninja text-xl">NFT Wonderland</p>
+            <p className="font-ninja text-xl">Trading Bot</p>
           </div>
 
           <div className="w-[270px] py-2 mx-auto border-none rounded-2xl overflow-hidden">
@@ -37,8 +37,7 @@ function Meme() {
 
           <div className="ml-2 flex justify-center items-center">
             <p className="capitalize">
-              Dive into the depths of meme mastery with  Samuria Panda epic NFT
-              collection! Explore a wonderland of rare and hilarious NFTs
+            Navigate the crypto trading world with Samurai Panda's cutting-edge trading bot. Powered by AI and expert market knowledge, it maximizes profits while minimizing risks for traders of all levels.
               
             </p>
           </div>
@@ -46,7 +45,7 @@ function Meme() {
 
         <div className="rounded-xl border border-[#a1ff3c] w-[370px] h-full  text-center p-4">
           <div>
-            <p className=" font-ninja text-xl">The Culture Coin of Solana</p>
+            <p className=" font-ninja text-xl">High Staking Rewards</p>
           </div>
 
           <div className="w-[270px] py-2 mx-auto border-none rounded-2xl overflow-hidden">
@@ -55,9 +54,7 @@ function Meme() {
 
           <div className="ml-2 flex justify-center items-center">
             <p className="capitalize">
-                Samuria Panda  vibes are legendary, just like his memes! Become part
-              of the Solana culture with  Samuria Panda by your side. From memes to
-              community events.
+            Join us on an adventure and earn generous staking rewards as Samurai Panda gives back to its loyal community. Stake your tokens and secure the future of our ecosystem.
             </p>
           </div>
         </div>
