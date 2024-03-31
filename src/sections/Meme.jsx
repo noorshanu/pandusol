@@ -10,7 +10,7 @@ function Meme() {
       <div className=" flex items-center gap-4 justify-between flex-col sm:flex-row">
         <div className=" rounded-xl border border-[#a1ff3c] w-[370px] h-full  text-center p-4">
           <div>
-            <p className="font-ninja text-xl">Telegram Games on  Samuria Panda</p>
+            <p className="font-ninja text-xl">Cute Warrior Panda Meme</p>
           </div>
 
           <div className="w-[270px] mx-auto py-2  border-none rounded-2xl overflow-hidden">
@@ -19,9 +19,7 @@ function Meme() {
 
           <div className="ml-2 flex justify-center items-center">
             <p className="capitalize">
-              Where memes meet mayhem! Join our Telegram community for epic
-              gaming adventures, challenges, and rewards that'll have you
-              hopping with excitement!
+            At the heart of Samurai Panda's universe lies its viral cute warrior panda meme – a symbol of strength, resilience, and community. Our memes spread joy and camaraderie across the Solana ecosystem.
             </p>
           </div>
         </div>
