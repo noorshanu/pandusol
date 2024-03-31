@@ -14,12 +14,12 @@ function AppLayout() {
       </main>
       <div className=" h-[70px] border-t-2 border-b-2 py-4 border-[#751717] mb-2 ">
         <a
-          href="#"
+          href="https://dexscreener.com/solana/8sbxpgx32jsm4prxwpvcxzmaxfthuc6xjtb8jq7o6d8j"
           target="_blank"
           className="my-2 flex justify-center text-base text-center text-white  sm:text-xl"
         >
           {" "}
-          Contract : ESdCVVCEbwP5Fm7pdGhYAhBVsdsfdgdfghf
+          Contract : 8sbxpgx32jsm4prxwpvcxzmaxfthuc6xjtb8jq7o6d8j
         </a>
       </div>
       <div>
