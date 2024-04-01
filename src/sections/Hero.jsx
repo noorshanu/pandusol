@@ -12,13 +12,13 @@ function Hero() {
               <h1 className=" font-ninja text-5xl my-4">PandaWif </h1>
 
               <p className=" text-base sm:text-xl">
-                Welcome to the whimsical world of Samurai Panda, where cuteness
+                Welcome to the whimsical world of PandaWif, where cuteness
                 meets warrior spirit, and memes collide with trading prowess.
                 Join us as a lovable panda leads a community on a mission to
                 revolutionize the Solana meme world.
               </p>
               <p className=" text-base sm:text-xl py-2">
-              Samurai Panda Power combines Meme with Profit! With lightning speed, unbeatable strength,
+              PandaWif Power combines Meme with Profit! With lightning speed, unbeatable strength,
                 boundless energy, and a charm that'll make even the toughest
                 whales swoon,PandaWif is here to take the Solana community
                 to the moon and beyond!
