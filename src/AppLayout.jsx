@@ -50,7 +50,7 @@ function AppLayout() {
                 alt=""
               />
 
-              <p className=" text-2xl font-ninja"> Samuria Panda </p>
+              <p className=" text-2xl font-ninja">PandaWif </p>
               <div className="ml-10 flex justify-center items-center ">
                 <ul className="flex gap-4">
                   <li>Home</li>
@@ -62,10 +62,10 @@ function AppLayout() {
 
             <div className="flex items-center space-x-6">
               <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-              <a target="_blank" href="https://twitter.com/samurai9_">
+              <a target="_blank" href="https://twitter.com/Pandawif_">
               <FaTwitter />
             </a>
-            <a target="_blank" href="https://t.me/sumaripanda">
+            <a target="_blank" href="https://t.me/pandawiff">
               <FaTelegram />
             </a>
               </div>

@@ -12,7 +12,7 @@ function AboutUs() {
             Join our community
           </h1>
           <p className="text-lg font-medium text-[white] text-center p-2">
-              By Buying  Samuria Panda , you become a part of the community. You're not just a fan, <br />you're a support
+              By Buying PandaWif , you become a part of the community. You're not just a fan, <br />you're a support
               , a patron, apart of the creator's journey. we're more than just a coin – we're a movement!
             </p>
         </div>

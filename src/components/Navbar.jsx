@@ -17,7 +17,7 @@ function Navbar() {
         />
 
         <p className=" text-3xl font-medium font-ninja">
-        Samuria Panda
+       PandaWif
         </p>
        </div>
 
@@ -66,10 +66,10 @@ function Navbar() {
 
         <div className="flex items-center space-x-6">
           <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="https://twitter.com/samurai9_">
+            <a target="_blank" href="https://twitter.com/Pandawif_">
               <FaTwitter />
             </a>
-            <a target="_blank" href="https://t.me/sumaripanda">
+            <a target="_blank" href="https://t.me/pandawiff">
               <FaTelegram />
             </a>
           </div>
