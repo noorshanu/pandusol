@@ -35,7 +35,7 @@ function Hero() {
                   href="https://t.me/sumaripanda"
                   className="text-base py-2 uppercase font-ninja px-10 rounded-full bg-gradient-to-b from-[#a1ff3c] to-[#C9A900] shadow-lg shadow-black/40 text-black  font-bold border border-yellow"
                 >
-                  join telegram
+                  Join telegram
                 </a>
               </div>
             </div>
