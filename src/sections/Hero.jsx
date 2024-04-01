@@ -29,7 +29,7 @@ function Hero() {
                   target="_blank"
                   className="py-2 text-base uppercase font-ninja px-10 rounded-full bg-gradient-to-b from-[#000000] to-[#2B0000] shadow-lg shadow-black/40 text-white  font-bold border border-white"
                 >
-                  buy now
+                DexTools
                 </a>
                 <a
                   href="https://t.me/sumaripanda"
